@@ -1,0 +1,12 @@
+html,
+body,
+
+#mapid{height:100%;
+	width:100%;
+}
+h1{
+	text-align:center;
+	color:blue;
+	font-size:25px;
+	font-family:Arial,sans-s;
+}
